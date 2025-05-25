@@ -1,7 +1,7 @@
 ![logo](https://github.com/Shwetasen2003/Shwetasen2003/blob/main/hero-bg2.jpg)
 <h1 align="center">Hi 👋, I'm Shweta Sen</h1>
 <h3 align="center">A passionate Data Analyst & Web Developer from India</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/2d7f2050-d9fa-48df-8dd2-caafe21b4ff0)">
+<img align="right" alt="coding" width="400" src="![image]">
 
 - 🌱 I’m currently learning **Data Analysis Tools**
 
