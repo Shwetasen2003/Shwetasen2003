@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shweta Sen</h1>
 <h3 align="center">A passionate Data Analyst & Web Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://in.images.search.yahoo.com/yhs/search;_ylt=AwrPqFYBIDNoq_wFEA3nHgx.;_ylu=Y29sbwMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=animated+coding+gif&type=type80160-2184732695&param1=1360383030&hsimp=yhs-002&hspart=sz&ei=UTF-8&fr=yhs-sz-002#id=36&iurl=https%3A%2F%2Fres.cloudinary.com%2Fpracticaldev%2Fimage%2Ffetch%2Fs--O0u1bNHs--%2Fc_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880%2Fhttps%3A%2F%2Fmiro.medium.com%2Fmax%2F1400%2F0*PXf5ge7QCN9Ga_CL.gif&action=click">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/70876085-c81c-49b1-b58e-f2700692dabd)">
 
 - 🌱 I’m currently learning **Data Analysis Tools**
 
