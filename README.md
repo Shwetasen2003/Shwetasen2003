@@ -4,7 +4,7 @@
 <h3 align="center">2025 B.Tech Graduate | Aspiring AI Automation Specialist</h3>
 
 - 🎓 **B.Tech 2025 Graduate** taking a fresh start to build intelligent automation solutions and AI workflows.
-- 🌱 Currently upskilling in **AI Automation, Agentic Frameworks & Python Scripting**.
+- 🌱 Currently upskilling in **AI Automation, Agentic Workflows & System Integrations**.
 - 👨‍💻 All of my projects are available at [https://shwetasen2003.github.io](https://shwetasen2003.github.io)
 - 📫 How to reach me: **senshweta.2003@gmail.com**
 
@@ -18,26 +18,22 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
+<h3 align="left">Skills & Tools:</h3>
+<p align="left">
+  <!-- AI Automation & n8n -->
+  <img src="https://img.shields.io/badge/AI%20Automation-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AI Automation" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <br/>
+  <!-- APIs, Webhooks, JSON, Postman -->
+  <img src="https://img.shields.io/badge/APIs%20%26%20Webhooks-0052CC?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs & Webhooks" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <br/>
+  <!-- Data & Integrations -->
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shwetasen2003&show_icons=true&locale=en&layout=compact" alt="shwetasen2003" /></p>
