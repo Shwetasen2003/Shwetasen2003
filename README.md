@@ -5,8 +5,7 @@
 
 - 🎓 **B.Tech 2025 Graduate** taking a fresh start to build intelligent automation solutions and AI workflows.
 - 🌱 Currently upskilling in **AI Automation, Agentic Workflows & System Integrations**.
-- 👨‍💻 All of my projects are available at [https://shwetasen2003.github.io](https://shwetasen2003.github.io)
-- 📫 How to reach me: **senshweta.2003@gmail.com**
+- 📫 How to reach me: **shwetasen3003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
