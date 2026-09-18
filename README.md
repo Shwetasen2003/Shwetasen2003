@@ -36,8 +36,3 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shwetasen2003&show_icons=true&locale=en&layout=compact" alt="shwetasen2003" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shwetasen2003&show_icons=true&locale=en" alt="shwetasen2003" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shwetasen2003&" alt="shwetasen2003" /></p>
